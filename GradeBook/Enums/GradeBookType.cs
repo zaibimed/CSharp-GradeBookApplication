@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace GradeBook.Enums
+﻿namespace GradeBook.Enums
 {
-  public enum GradeBookEnum
+  public enum GradeBookType
   {
     Standard,
     Ranked,
